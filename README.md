@@ -12,4 +12,4 @@ This project contains examples of **One-Way** and **Two-Way ANOVA** using R.
 3. View results using `summary(result)`.
 
 ## Author
-Created by [Your Name]
+Created by Balasenthilvel V N
