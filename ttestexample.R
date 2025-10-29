@@ -1,6 +1,3 @@
-n<-100
-a<-10000
-
 n1 <- 50
 mean1 <- 22
 std1 <- 16 
@@ -45,5 +42,4 @@ if (pvalue < alpha) {
 } else {
   cat("we fail to reject the null hypothesis.\n")
   cat("There is not enough statistical evidence to conclude that the average service times in Store A and Store B are different.\n")
-
 }
